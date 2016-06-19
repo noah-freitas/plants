@@ -1,0 +1,3 @@
+﻿interface Recording {
+    time: Date;
+}
